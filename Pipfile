@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+supabase = "*"
+fastapi = "*"
+uvicorn = {extras = ["standard"], version = "*"}
+llama-cpp-python = "*"
+requests = "*"
+tqdm = "*"
+pandas = "*"
+numpy = "*"
+openai = "*"
+python-dotenv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.13"
