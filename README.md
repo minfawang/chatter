@@ -1,8 +1,8 @@
 # Chatter
 
-The <b>Chat</b>bot Star<b>ter</b> (with RAG). This project is a demo for a chatbot with RAG functionality. The chatbot will act as George, a virtual sales agent for a coffee machine brand Bruvi to answer the user's questions with references to the pages on Bruvi website.
+The <b>Chat</b>bot Star<b>ter</b> (with RAG). This project is a demo for a chatbot with RAG functionality. The chatbot will act as George, a virtual sales agent for a coffee machine brand Bruvi to answer the user's questions with references to the pages on Bruvi website. The project also demonstrates serving with different model types: `human`, `custom hosted model`, `OpenAI with RAG`. The user can toggle the model from the UI.
 
-The project also allows to switch the model to different sources with UI: `human`, `custom hosted model`, `OpenAI with RAG`.
+The project is designed for educational purpose, with only the minimal and most essential dependencies. It can be used to understand how the system operates under the hood, and is easily customizable.
 
 ## UI
 
